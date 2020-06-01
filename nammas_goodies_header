@@ -1,0 +1,25 @@
+<!-- Text Style -->
+  <link href="https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap" rel="stylesheet"> 
+  <style>
+  .center {
+    text-align: center;
+    width: 80vw;
+    height: 80vh;
+  }
+  p {
+    font-family: 'Chelsea Market', cursive;  
+    font-size: 2em;
+    text-color: #EA55A9;
+    text-weight: bold;
+    text-decoration: none;
+  }
+  </style>
+<!-- End Text Style -->
+
+<!-- Start Main HTML -->
+  <div class="center" scrolling="no">
+    <p>
+      A home based bake shop, serving handmade goodies at local farmer's markets.
+    </p>
+  </div>
+<!-- End Main HTML -->
